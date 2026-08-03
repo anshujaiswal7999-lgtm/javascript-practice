@@ -19,3 +19,4 @@ editdata(){
 let student1=new user("Anshu","anshu@gmail.com");
 let student2=new user("Nikhil","nikhil@gmail.com");
 let Admin=new admin("admin","admin@gmail.com");
+
